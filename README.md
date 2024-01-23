@@ -22,8 +22,8 @@ I'm a passionate software developer with a keen interest in AI Development, Web 
 I'm Looking Forward to expanding this list but heres some projects I've worked on so far
 
 - [RTX-Example](https://github.com/Harry040502/RTX-Example)
-- [COMP3000 - GAN (Image Generator)]((https://github.com/Harry040502/COMP3000))
-- [COMP2000- Java Mobile Application]((https://github.com/Harry040502/ScoreLeaderboard))
+- [COMP3000 - GAN (Image Generator)](https://github.com/Harry040502/COMP3000)
+- [COMP2000- Java Mobile Application](https://github.com/Harry040502/ScoreLeaderboard)
 
 ## 📫 How to Reach Me
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/harry-spruce-07013b105/)
