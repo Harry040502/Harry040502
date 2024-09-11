@@ -1,4 +1,4 @@
-# Hi, my name is Harry and I've just finished my BSc Computer Science (Hons) At UoP and am looking for new opportunities to help grow my skills!
+# Hi, my name is Harry, I'm a D365 Analys. This profile represents my work at University.
 
 Welcome to my GitHub profile!
 
