@@ -1,4 +1,4 @@
-# Hi, my name is Harry, I'm a D365 Analys. This profile represents my work at University.
+# Hi, my name is Harry, I'm a D365 Analyst. This profile represents my work at University.
 
 Welcome to my GitHub profile!
 
